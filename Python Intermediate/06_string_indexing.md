@@ -25,5 +25,10 @@ print(credit_number[-1])
   ```
   (setting steps to -1 )
 - format specifiers - {value:flag} format a value based on what flaga are inserted
-  1:47
+  ```
+  price1 = 3.1456789
+  print(f"Price 1 is {price1:.2f}
+  ```
+  Here 2 means till 2 decimal points and f means float
+  
   
