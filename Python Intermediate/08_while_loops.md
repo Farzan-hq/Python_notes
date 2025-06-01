@@ -5,4 +5,5 @@ i = 1
 while i < 6:
   print(i)
   i += 1
-```1:55
+```
+You can use logical operators with `while`
