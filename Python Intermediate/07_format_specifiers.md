@@ -7,7 +7,7 @@ Here 2 means till 2 decimal points and f means float
 - if you want space allocated to display a value
 ```
 price1 = 3.1456789
-print(f"Price 1 is {price1:10}
+print(f"Price 1 is {price1:.6}")
 ```
 - now to preceed a number with 0
 ```
