@@ -8,3 +8,7 @@ for x in range(1, 10):
     print(x, end="") # default it is end= "/n", or if u add space in end then each of the characters will end with a space
 ```
 https://www.w3schools.com/PYTHON/gloss_python_for_nested.asp
+##NOTE##
+- the nmae of the two counters shoulde be different
+- 
+
