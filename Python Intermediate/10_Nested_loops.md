@@ -9,6 +9,6 @@ for x in range(1, 10):
 ```
 https://www.w3schools.com/PYTHON/gloss_python_for_nested.asp
 ##NOTE##
-- the nmae of the two counters shoulde be different
+- the name of the two counters shoulde be different
 - 
 
